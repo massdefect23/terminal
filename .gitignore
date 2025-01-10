@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+release/
+debug/
+*.o
+*.so
+*.a
+*.exe
+*.dSYM/
+*.DS_Store
+
+# Environment file
+.env
